@@ -47,6 +47,14 @@ export default {
     lang: 'ja'
   },
 
+  router: {
+    base: './'
+  },
+
+  generate: {
+    dir: "docs"
+  },
+
   /*
   ** Build configuration
   */
