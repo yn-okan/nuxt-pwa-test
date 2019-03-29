@@ -48,7 +48,7 @@ export default {
   },
 
   router: {
-    base: './'
+    base: '/nuxt-pwa-test/'
   },
 
   generate: {
